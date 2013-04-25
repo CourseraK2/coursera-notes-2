@@ -5,25 +5,25 @@ This was the introductory course to behavioral economics that was launched in Ap
 Since I discovered Markdown, I find it an extremely useful format for capturing study notes and comments. This repo will contain my notes on both study materials and reading recommendations for this course. Updates will be out-of-order by necessity (my earlier notes were captured on a combination of Google Docs and Paper - so transcription will occur over time).
 
 
-##Week 1: Introduction to Irrationality
-***
+## Pre-Course Reading
+
+## Week 1: Introduction to Irrationality
 
 
+## Week 2: The Psychology of Money
 
-##Week 2: The Psychology of Money
-***
 
-##Week 3: Dishonesty
-***
+## Week 3: Dishonesty
 
-##Week 4: Labor and Motivation
-***
 
-##Week 5: Self-Control
-***
+## Week 4: Labor and Motivation
 
-##Week 6: Emotion
-***
 
-##Post-Course
-***
+## Week 5: Self-Control
+
+
+## Week 6: Emotion
+
+
+## Post-Course Reading
+
