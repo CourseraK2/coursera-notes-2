@@ -1,7 +1,7 @@
 # Labor and Motivation
 
 ## Required Reading
----------------------------------------
+
 
 ### Feeling Good About Giving: The Benefits (and Costs) of Self-interested Charitable Behavior
     Anik, L., Aknin, L., Norton, M., & Dunn, E. (2009). Feeling Good about Giving: The Benefits (and Costs) of Self-interested Charitable Behavior. Harvard Business School Marketing Unit Working Paper, (10-012)
@@ -38,7 +38,7 @@
 
 
 ## Recommended Reading
----------------------------------------
+
 
 ### Medium of Exchange Matters: What’s Fair for Goods is Unfair for Money
     DeVoe, S. E. & Iyengar, S. S. (2010). Medium of Exchange Matters: What’s Fair for Goods is Unfair for Money. Psychological Science, 21(2), 159-162. Copyright is by permission of the © American Psychological Society.
@@ -77,4 +77,4 @@
 
 
 ## Other Reading
----------------------------------------
+
