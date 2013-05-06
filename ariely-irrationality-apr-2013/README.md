@@ -1,29 +1,24 @@
-# A Beginner's Guide to Irrationality
+# A Beginner's Guide to Irrational Behavior (Study Guide)
 
-This was the introductory course to behavioral economics that was launched in April 2013 on Coursera. It is taught by Prof. Dan Ariely, a unique individual with an uncanny way of making irrationality in human behaviors seem logical. The course is heavy on reading and terminology but it is without doubt one of those courses that I want to really do justice to. This is my attempt to do so by taking on the **"sponge vs. roomba"** challenge. Sponges are passive participants who soak up knowledge but rarely take the effort to actively explore the area or apply the learnings. Roombas are by nature exploratory beasts that constantly move around trying to get maximum coverage of the domain. At least that's how I look at it.
-
-Since I discovered Markdown, I find it an extremely useful format for capturing study notes and comments. This repo will contain my notes on both study materials and reading recommendations for this course. Updates will be out-of-order by necessity (my earlier notes were captured on a combination of Google Docs and Paper - so transcription will occur over time).
+This is meant to be a personal study guide for the April 2013 Coursera-offered Duke University course offered by Professor Dan Ariely. It contains my own notes on lectures and recommended/required readings for the course. In addition, I also included links to other students' notes or visualizations of the lectures that I thought were incredibly useful or impressive in context. In such cases, the captions or citations for those will clearly provide attribution to the sources.
 
 
-## Pre-Course Reading
+### Web Book Boilerplate
 
-## Week 1: Introduction to Irrationality
+This is also an experiment in using Pascal Precht's ([Github](http://github.com/PascalPrecht) and [Twitter](http://twitter.com/PascalPrecht)) awesome "Web Book Boilerplate" to generate a digital book version of these notes. Given that I do almost all my reading on a Kindle (device or application) these days, having a quick and easy way to create .mobi and .epub versions of the notes seems the way to go.
 
+For more on Web Book Boilerplate see the [wiki](https://github.com/WebBooks/wbb/wiki) or follow [Web Books on Twitter](http://twitter.com/webbooks_org)
 
-## Week 2: The Psychology of Money
+## Building from source
 
+* Read the WebBooks [wiki](https://github.com/WebBooks/wbb/wiki) for correct environment setup
+* Clone or download the distribution
+* Use "npm install" to ensure all dependencies are fulfilled (including grunt)
+* Use "grunt wbb:html" to generate the HTML version of the book
+* Other formats supported include wbb:epub, wbb:rtf and wbb:mobi
 
-## Week 3: Dishonesty
+## Feedback
 
-
-## Week 4: Labor and Motivation
-
-
-## Week 5: Self-Control
-
-
-## Week 6: Emotion
-
-
-## Post-Course Reading
-
+Any feedback or comments on these notes are welcome - find me on twitter @nitya
+For those who are taking the course with me -- good luck!!!
+For those who haven't yet taken the course -- I highly recommend it so watch for its next iteration.

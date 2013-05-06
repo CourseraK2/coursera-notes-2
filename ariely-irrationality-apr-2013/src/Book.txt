@@ -1,0 +1,9 @@
+chapters/Summary.md
+chapters/Terminology.md
+chapters/01_Introduction_to_Irrationality_Lectures.md
+chapters/02_The_Psychology_Of_Money_Lectures.md
+chapters/03_Dishonesty_Lectures.md
+chapters/04_Labor_And_Motivation_Lectures.md
+chapters/05_Self_Control_Lectures.md
+chapters/06_Emotion_Lectures.md
+chapters/Readings.md

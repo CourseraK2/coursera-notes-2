@@ -1,2 +1,5 @@
-# Ignore WebStorm editor config
+*.sw?
+node_modules
+.DS_Store
+builds
 .idea
