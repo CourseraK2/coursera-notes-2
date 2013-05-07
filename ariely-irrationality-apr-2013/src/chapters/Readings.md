@@ -1,6 +1,6 @@
 # Readings
 
-Where relevant, a "page count" is provided  after the link. This page count reflects my digital copy of the referenced article or paper. In the case of an online article (e.g., New York Times), it reflects the length of a "printable" PDF created for that article. The page count serves only to provide an indication of the length of time (and potential complexity) of the associated article. In certain cases where the article was comprehensive (e.g., 25+ pages), the notes will likely reflect a high-level take-away message obtained by a quick-scan of the article. When time permits, I hope to create more comprehensive summaries for all.
+Page counts are provided after each link **in bold** and are indicative of the page-counts in my copies of those papers. For online articles (e.g., New York Times) the page-count is for a "printable PDF" of the article. My notes are likely to be more comprehensive for shorter articles (< 10 pages) which I would have had more time to read in full, with longer articles meriting only a brief summary based on a quick scan-pass of the document.
 
 ****
 
@@ -349,7 +349,7 @@ Where relevant, a "page count" is provided  after the link. This page count refl
 3. *Looking Forward to Looking Backward: The Misprediction of Regret.*
 [Link](https://spark-public.s3.amazonaws.com/behavioralecon/readings/Week%206%20Readings/Gilbert%20looking%20forward.pdf)
 
-4. *Misery is not Miserly: Sad and Self-focused Individuals Spend More. *
+4. *Misery is not Miserly: Sad and Self-focused Individuals Spend More.*
 [Link](https://spark-public.s3.amazonaws.com/behavioralecon/readings/Week%206%20Readings/Misery-2008-Cryder-525-30.pdf)
 
 5. *Benign Violations: Making Immoral Behavior Funny.*
@@ -378,28 +378,28 @@ Where relevant, a "page count" is provided  after the link. This page count refl
 **POST-COURSE: Recommended**
 
 1. *Psychology, Behavioral Economics, and Public Policy.*
-[Link](http://hdl.handle.net/10161/6222)
+[Link](http://hdl.handle.net/10161/6222) (**15 pages**)
 
 2. *How To Turn Consumers Green.*
-[Link](http://voices.mckinseyonsociety.com/how-to-turn-consumers-green/)
+[Link](http://voices.mckinseyonsociety.com/how-to-turn-consumers-green/) (**3 pages**)
 
 3. *Could Behavioral Economics Help Improve Diet Quality for Nutrition Assistance Program Participants?*
-[Link](http://www.ers.usda.gov/media/196728/err43_1_.pdf)
+[Link](http://www.ers.usda.gov/media/196728/err43_1_.pdf) (**34 pages**)
 
 4. *Regulation for Conservatives: Behavioral Economics and the Case for 'Asymmetric Paternalism.’*
-[Link](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=399501)
+[Link](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=399501) (**44 pages**)
 
 5. *Recommendations Implicit in Policy Defaults.*
-[Link](https://spark-public.s3.amazonaws.com/behavioralecon/readings/Post-course%20Readings/McKenzieetal2006PsychSci.pdf)
+[Link](https://spark-public.s3.amazonaws.com/behavioralecon/readings/Post-course%20Readings/McKenzieetal2006PsychSci.pdf) (**7 pages**)
 
 6. *Behavioral Dimensions of Food Security.*
-[Link](http://www.pnas.org/content/109/31/12315.full.pdf+html)
+[Link](http://www.pnas.org/content/109/31/12315.full.pdf+html) (**6 pages**)
 
 7. *Economics Behaving Badly.*
-[Link](http://www.nytimes.com/2010/07/15/opinion/15loewenstein.html)
+[Link](http://www.nytimes.com/2010/07/15/opinion/15loewenstein.html) (**3 pages**)
 
 8. *Helping People Help Themselves.*
-[Link](http://www.nytimes.com/2007/02/14/opinion/15talkingpoints.html?pagewanted=1&_r=1&ei=5121&en=43a1311570cab87a&ex=1172034000&emc=eta1&)
+[Link](http://www.nytimes.com/2007/02/14/opinion/15talkingpoints.html?pagewanted=1&_r=1&ei=5121&en=43a1311570cab87a&ex=1172034000&emc=eta1&) (**7 pages**)
 
 ****
 
@@ -556,3 +556,6 @@ Where relevant, a "page count" is provided  after the link. This page count refl
  6. Timmer, C. P. (2010). Behavioral Dimensions of Food Security. PNAS, 109(31), 12315-12320.
  7. Loewenstein, G., Ubel, P (2010, July 14). Economics Behaving Badly. The New York Times.
  8. Tritch, T. (2007, February 14). Helping People Help Themselves. The New York Times.
+
+
+****

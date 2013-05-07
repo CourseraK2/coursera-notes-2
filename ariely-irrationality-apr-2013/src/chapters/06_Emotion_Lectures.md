@@ -20,7 +20,7 @@ Two sides to decision-making: rational and emotions. When emotions take over, th
    Experiment: Professors asked how getting/being-denied tenure would affect them. Most predicted a long-term happiness (on tenure) or misery (on denial) -- but in reality, most returned rather quickly to their previous state. Other examples: the joys of moving, the sorrows of dating and breaking up.
 
 
-EXPERIMENT: To prove that emotions can overtake cognition.
+**EXPERIMENT**: To prove that emotions can overtake cognition.
 
 1. (Objective) Conducted survey with subjects to look at the effect of sexual arousal (considered a basic emotion) on a user's cognitive attitudes to (a) sexual preferences (simple or quirky), (b) willingness to take risk (e.g., practice safe sex), and (c) willingness to act immorally (e.g., ethical in approaching others for sex)  .
 
@@ -63,7 +63,7 @@ EXPERIMENT: To prove that emotions can overtake cognition.
 
 4. (Example) You are dressed for an interview and you see a toddler drowning -- would you jump in to save her? Of course! Instead, ask yourself: would you put aside a little money to save a toddler from starving? Maybe. But what if this was one in a million toddlers and you didn't see or hear her cries? Probably not.
 
-EXPERIMENT: Statistical vs. Identifiable Life
+**EXPERIMENT**: Statistical vs. Identifiable Life
 
 1. Research shows that when soliciting donations for world hunger, people were willing to donate *twice as much* to "Rokia" whos is representative of the problem (identifiable), than they would if just shown the masses (statistics).
 
@@ -82,7 +82,8 @@ Identifiable victim effect is why people respond less to genocide or issues like
 
 2. The Spam Story: Spammers try to create an emotional link with user by using a "story" e.g., by connecting with end user via some trusted source (e.g., bulletin boards) and create a relationship. But why do so many spam letters have poor grammar? Suggests it is deliberate -- spammers want to keep "gullible" people in their system and filter out those less likely to be productive targets for their schemes. By using poor grammar, they can be more assured that respondents are 'gullible' and less critical. Evidence of this is just beginning to emerge. Spamming is a good way to learn about human behavior since it obtains data from large populations.
 
-EXPERIMENT:
+**EXPERIMENT**:
+
 1. Subjects asked "What do you like? Pick what you like" for two kinds of products -- Jam and Posters. Afterwards, the subjects were revisited to find out how they liked their choice: did they consume the jam? did they hang up the poster?
 
 2. Two cases were explored: In case A, subjects were just shown the products and asked to go with their emotions. In case B, subjects were given statistics and additional information (cognitive input) about products. Result: Subjects who picked items based on emotional input alone tended to "consume" that item (e.g., ate the jam or hung the poster) more/better than those who selected it based on cognitive input.
@@ -102,3 +103,5 @@ EXPERIMENT:
 4. Takeway: Our perception of risk is higher when (a) the event is salient in memory (e.g., recent news/entertainment coverage) and (b) we have an emotional response to it.
 
 5. All emotions are not equal. Some emotions (arousal, fear, hunger) are stronger than others. The power of emotions to influence us depends on how *primary* they are -- as opposed to, say, how social they are (e.g., embarassment). The more primary/visceral, the more likely they are to influence our actions.
+
+****

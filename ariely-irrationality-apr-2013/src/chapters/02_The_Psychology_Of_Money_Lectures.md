@@ -135,3 +135,5 @@ Example: AOL moved from tiered rate ($19.95 for 20 hrs + $2.95/hr after) to a fl
 ## The Price of Free (9:50)
 
 ## Micro-Payments (11:42)
+
+****

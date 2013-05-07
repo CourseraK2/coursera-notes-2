@@ -31,3 +31,6 @@ When time permits, I hope to capture notes from the various guest lectures that 
 
 1. David Pizarro (18:03)
 2. Peter McGraw (16:22)
+
+
+****
