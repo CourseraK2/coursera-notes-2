@@ -335,25 +335,36 @@ Numbers and Numbness
 
 ```
 
+
 2. *Dread Risk, September 11, and Fatal Traffic Accidents.*
 [Link](https://spark-public.s3.amazonaws.com/behavioralecon/readings/Week%206%20Readings/9-11_Dread_2004.pdf) (**4 pages**)
 
-```
-Dread risks are low-probabilty, high-consequence events such as 9/11 where many people's lives are lost in a single moment rather than in a distributed manner over time.
+Dread Risks are low-probability, high-consequence events (e.g., 9/11) where many lives are lost in a single event or moment rather than distributed ove time. People often go to great lengths to avoid dread risks. The authors posit that such avoidance measures may actually contribute to a greater loss of life.
 
- * People may take extreme measures to avoid dread risks. But such measures may actually cost lives. In this paper, authors formulate this hypothesis and try to prove it using travel data post 9/11.
+  *  Dread Hypothesis: 9/11 was a dread risk. Authors hypothesise that (a) Americans reacted by reducing air travel to avoid dread risk, (b) some resorted to travelling by road instead and (c) as a result road fatalities increased post 9/11.
 
- * Dread Hypothesis: 9/11 was a dread risk. If Americans reduced air travel as a result, and a proportion of those now drove, then hypothesis is that traffic fatalities increased.
- * Direct evidence for part 1: Airline revenues entered the red, national revenue passenger miles reduced by 20%, 17% and 12% over next 3 months.
- * Indirect evidence for part 2: Montly miles driven in those 3 months was at least 2% higher than before, with largest increase on rural highways (consistent with long-distance travel)
- * Indirect evidence for part 3: Road fatalities had a stable pattern prior to 9/11 but in the above 3 months (post 9/11) this conformity did not hold. Instead, estimates place the cost at about 350 "more" lives lost due to dread risk avoidance.
+  *  Validation of Hypothesis: Direct evidence of (a) comes from airline revenues which dropped into the red for the 3 months post 9/11. Indirect evidence for (b) comes from monthly miles driven in those 3 months, which were at least 2% higher than before and showed largest increase on rural highways (indicative of long-distance travel). Indirect evidence for (c) comes from road fatality patterns which were stable before 9/11 but in the next 3 months showed an increased cost of 350 lives lost.
 
- * Takeaway: Dread risks incur visible high costs. Fear of dread risks incurs a second silent cost as people take avoidance measures. This second psychologically-motivated toll should be easier and cheaper to avoid (compared to preventing the occurence of the dread risk itself) by simply educating the public.
+  *  Takeway Message: Dread risks incur primary costs with high visibility. Fear of dread risks incurs a secondary cost via avoidance measures that is often invisible in conversations about that event. While dread risks are unanticipated and harder to predict/prevent, the secondary psychologically-motivated tolls are preventable and can be easily/cheaply avoided by educating the public.
 
-```
 
 3. *The Peculiar Longevity of Things Not So Bad.*
 [Link](https://spark-public.s3.amazonaws.com/behavioralecon/readings/Week%206%20Readings/Gilbert%20peculiar%20longevity.pdf) (**7 pages**)
+
+Research in affective forecasting shows that people like to predict future states of affect and plan actions that bring about desirable hedonic states (and avoid undesirable or dangerous states). However people often err in predicting their reactions to future events. The authors introduce the Region Beta paradox as one explanation for this "affect mismatch".
+
+  * The Region Beta Paradox: is a general phenomenon where the relationship between distance and time can be non-monotonic, resulting in a paradox where a distant target may be reached faster than one that is closer based on the existence of some active response mechanism. Example 1: People often walk to nearby destinations but drive to further ones; ergo, in many cases it takes longer to get to a closer target. Example 2: People take more effort to tackle a serious injury than they would a minor scrape; ergo, they may recover faster/better from a fracture than they would from a toothache or sprain.
+
+  * Relevance to Affect Forecasting: Psychological processes that "attenuate" intense distress or pleasure (affects) have costs and thus, are triggered only when the threshold for that affect passes some critical mark. Consequently, people recover faster (i.e., return to stable emotional state) from intense emotional events than from tepid ones. Example: Wives faster to get over spouse's infidelity than a spouse's disorderliness or lack of cleanliness. However, people don't "know" this happens and consequently predict that more intense affects/emotions will influence their actions longer into the future.
+
+ EXPERIMENT: Demonstrating User Error in Affective Forecasting
+
+  * (Study 1: Predicting Duration from Intensity)
+
+  * (Study 2: Partners and Non-Partners)
+
+  * (Study 3: Victims and Bystanders)
+
 
 4. *Emotions in Economic Theory and Economic Behavior.*
 [Link](http://www.andrew.cmu.edu/user/gl20/GeorgeLoewenstein/Papers_files/pdf/emotionsEconTheory.pdf) (**7 pages**)
