@@ -14,7 +14,7 @@ Quick reference for relevant terminology or concepts.
 
 * **Region Beta Paradox**. Phenomenon (described by Daniel Gilbert) where active response mechanisms kick in when some critical threshold is passed, causing a time-distance paradox where we may take more time to reach a closer target than we would a distant one. Example 1: When travelling, we may choose to "walk" to a close destination but drive to a distant one; ergo we may get to the further destination earlier. Example 2: (related to affective forecasting) more intense joy/distress emotions are attenuated faster than tepid ones; ergo we may get over spousal infidelity faster than over spousal disorderliness.
 
-where intense hedonic states trigger psychological processes that attenuate them, causing more intense emotions (positive or negative) to abate more rapidly than milder states (or more tepid emotions)
+* **Visceral Factors**. Refers to rapidly-changing high-intensity states (encompassing negative emotions, drive states and feeling states) that can override a user's stated preference or cognitively-planned action in the short-term, and should therefore be considered a factor in computing utility in decision-making processes. Humans tend to under-estimate the impact of VF on future actions. See Intra-Empathy Mismatch.
 
 ****
 
