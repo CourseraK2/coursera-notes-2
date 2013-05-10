@@ -7,3 +7,6 @@ chapters/04_Labor_And_Motivation_Lectures.md
 chapters/05_Self_Control_Lectures.md
 chapters/06_Emotion_Lectures.md
 chapters/Readings.md
+chapters/Books.md
+chapters/People.md
+chapters/MindMaps.md
