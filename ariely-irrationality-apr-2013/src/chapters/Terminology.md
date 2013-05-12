@@ -61,7 +61,7 @@ Quick reference for relevant terminology or concepts. A good secondary resource 
 * *Ego Depletion.* (Self Control) When we continually exert self-control, our ability to resist temptation weakens
 
 
-* *Endowment Effect*. (Self-Control) Also called Divestiture Aversion. It is the hypothesis that a person's willingness to accept (WTA) compensation for a good is greater than their willingness to pay (WTP) for it once their property right to it has been established. People will pay more to *retain* something they own than to *obtain* something owned by someone else—even when there is no cause for attachment, or even if the item was only obtained minutes ago. Also see Loss Aversion.
+* *Endowment Effect*. (Self-Control) Also called Divestiture Aversion. It is the hypothesis that a person's willingness to accept (WTA) compensation for a good is greater than their willingness to pay (WTP) for it once their property right to it has been established. People will pay more to *retain* something they own than to *obtain* something owned by someone else—even when there is no cause for attachment, or even if the item was only obtained minutes ago. Also see Loss Aversion. [Link](http://en.wikipedia.org/wiki/Endowment_effect)
 
 
 * *Expected Utility*. Also called "anticipated utility".
@@ -71,18 +71,19 @@ Quick reference for relevant terminology or concepts. A good secondary resource 
 
 * *Happiness.* (Self-Control) We pick a reality and compare our lives to it. If that reality is better than our actual lives, we are miserable. If that reality is worse, we feel good.
 
-* *Hedonic Treadmill or Hedonic Adaptation*. (Emotion) Refers to the tendency of humans to return quickly to a stable state of emotion after potentially significant or life-changing positive or negative events. See Region Beta Paradox.
+* *Hedonic Treadmill or Hedonic Adaptation*. (Emotion) Refers to the tendency of humans to return quickly to a stable state of emotion after potentially significant or life-changing positive or negative events. See Region Beta Paradox. [Link](http://en.wikipedia.org/wiki/Hedonic_treadmill)
 
 * *Herding*.
 
 
 * *Heuristic.*
 
+* *Inattentional Blindness.* Inattentional blindness is the failure to notice an unexpected stimulus that is in one's field of vision when other attention-demanding tasks are being performed. It often happens when humans are overloaded with stimuli and is due to the fact that the human is then unaware of the unattended stimuli. (The Invisible Gorilla experiment) [Link](http://en.wikipedia.org/wiki/Inattentional_blindness)
 
-* *Identifiable Victim Effect*. (Emotion) A single, specific victim inspires action but general information about masses does not (the statistical vs. identifiable life).
+* *Identifiable Victim Effect*. (Emotion) A single, specific victim inspires action but general information about masses does not (the statistical vs. identifiable life). Refers to the tendency of individuals to offer greater aid when a specific, identifiable person ("victim") is observed under hardship, as compared to a large, vaguely defined group with the same need. (Even small groups moved the focus from identifiable life to statistical life, causing reduced emotive response) The effect is also observed when subjects administer punishment rather than reward. Participants in a study were more likely to mete out punishment, even at their own expense, when they were punishing specific, identifiable individuals ("perpetrators"). [Link](http://en.wikipedia.org/wiki/Identifiable_victim_effect)
 
 
-* *IKEA Effect*. Also see Not-Invented-Here Bias.
+* *IKEA Effect*. The Ikea effect is a cognitive bias where labor enhances affection for its results Also see Not-Invented-Here Bias. The nature of the "Ikea effect" is the result of over admiration of a particular item one puts together on their own. It is seen as an actual psychological situation which is linked to consumer placing an overload of value towards an object they built even though it is not worth as much as they believe.[Link](http://en.wikipedia.org/wiki/Ikea_Effect)
 
 
 * *Intertemporal Discounting*. (Emotion)
@@ -91,7 +92,7 @@ Quick reference for relevant terminology or concepts. A good secondary resource 
 * *Intra-Empathy Mismatch*. (Emotion) We find it harder to predict/reconcile our future decisions (under a different emotional state) with our current thinking.
 
 
-* *Loss Aversion*. Refers to people's tendency to strongly prefer avoiding losses to acquiring gains. Some studies suggest that losses are twice as powerful, psychologically, as gains. This in turn may explain why people may be willing to pay more to retain things they already own than to obtain a new item -- see Endowment Effect.
+* *Loss Aversion*. Refers to people's tendency to strongly prefer avoiding losses to acquiring gains. Some studies suggest that losses are twice as powerful, psychologically, as gains. This in turn may explain why people may be willing to pay more to retain things they already own than to obtain a new item -- see Endowment Effect. [Link](http://en.wikipedia.org/wiki/Loss_aversion)
 
 
 * *Macbeth Effect*. (Dishonesty)
