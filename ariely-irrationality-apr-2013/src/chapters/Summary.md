@@ -1,5 +1,11 @@
 # Summary
 
+A crowd-sourced collection of Lecture Notes and Readings commentary can be found on this [Google Drive](https://drive.google.com/folderview?id=0B2513bX-TLduS2ZaV0E1dnp4c00&usp=sharing) - it was a collective effort by participants to provide coverage of the topics and was universally held to be the best idea/resource for the class.
+
+There are separate chapters (pages) for each topic which combine lecture-slide notes (directly) with my annotations or additions based on my understanding of the topic. While the initial goal was to support study needs for the course, the long-term goal is to expand on these topics as I find examples/usage of the concepts in my own life.
+
+****
+
 **Pre-Course**
 
 **Introduction to Irrationality**

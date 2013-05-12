@@ -8,6 +8,10 @@ What is the role of self-control in overcoming challenges in our lives and in ou
      * Challenge: How to motivate behaviors for long-term benefit if they have short-term drawbacks?
      * Example: Interferon regimen for treating Hepatitis C. Would you make yourself sick on purpose (short-term side effects of treatments) to prevent cirrhosis (long-term benefits?)
 
+ * Hyperbolic Discounting: Related to present bias. In general, discounting refers to the process whereing people, given two similar rewards, show a preference for the one that arrives sooner. They "discount" the value of the later reward by a factor that increases with th length of delay.
+     * In *exponential* discounting, we have a time-consistent model where the discount rate is constant over time. Effectively, the human will make a similar choice over any two options that are separated by the same time period.
+     * In *hyperbolic* discounting, we have a time-inconsistent model where the discount rate is very high for short delays (near-term) and falls more slowly for long delays (far-term). Effectively, humans behave in a dynamically inconsistent manner making a *different* choice between two options that have a constant time difference based on the choice being anchored to present or to a distant future (will take 1/2 box chocolates today rather than way a week for a full box; but will wait the extra week and take the full box if told the choices are anchored at a year out from present)
+
  * Why do we pick half-box of chocolates today (over full box in a week) -- but reverse our decision if the options are half-box in a year and full-box in a year-and-a-week? Because we believe we will have better control/behavior in the distant future, but not right now.
       * Relative Importance of Things in Life: Some things (liver health) are more important than others (side effects of treatment) but we discount this importance because of the time component (short-term pain vs. long-term gain).
 

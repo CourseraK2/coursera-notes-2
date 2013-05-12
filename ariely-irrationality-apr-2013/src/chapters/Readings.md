@@ -191,6 +191,8 @@ Page counts are provided after each link **in bold** and are indicative of the p
 
 ****
 
+
+
 **LABOR AND MOTIVATION: Required**
 
 1. *Feeling Good About Giving: The Benefits (and Costs) of Self-interested Charitable Behavior*
@@ -208,8 +210,22 @@ Page counts are provided after each link **in bold** and are indicative of the p
 5. *A Fine is a Price*
  [Link](http://www.jstor.org/stable/10.1086/468061) (**19 pages**)
 
+   * Deterrence hypothesis predicts that introduction of a fine that leaves everything else unchanged, will result in a reduction in behaviors subject to the fine.
+   * Authors argue that "leaving everything else unchanged" is hard to ensure, and when it is so, the deterrence hypothesis loses its predictive strength (and could even become a liability)
+   * In particular, penalties are often introduced into situations that have an existing but *incomplete* contract (social or private). Addition of the penalty may change the information that agents have in that situation, and as a result create a change that triggers the opposite behavior to that anticipated by the penalty.
+   * The paper presents results from a related experiment in a day care center that was dealing with late-shows from parents. Initially, a teacher stayed late to accomodate the latecomers. In the study, they instead introduced a monetary fine -- by deterrence hypothesis, this should have reduced the bad behavior (causing a drop in late-arriving parents)
+   * The results showed a reverse effect (significant increases). More importantly, it showed a persistence in this increased bad behavior after the monetary penalty was removed (restoring the previous no-penalty state, and ostensibly returning to the same state pre-deterrence)
+   * Authors argue that initial contracts had no penalty clause, leading to an unwritten social contract between parents/teachers. Adding the monetary fine moved the relationship to financial territory and removed the behavioral constraints that were otherwise imposed by social norms. Once parents (agents) had this new information (filled in the contract terms) they acted according to this new information and subsequently did not revert to the social relationship when the financial one ended.
+
+
 6. *Man's Search for Meaning: The Case of Legos*
 [Link](http://dukespace.lib.duke.edu/dspace/handle/10161/6324) (**7 pages**)
+
+   * Question: How does perceived meaning influence labor supply?
+   * Experiment: Manipulate the perceived meaning of simple/repetitive tasks and judge their efect on subjects' labor supply. Conditions in decreasing order of meaningfulness were ackowledged, ignored and shredded.
+   * Result: Subjects in less meaningful conditions exhibited higher "reservation wages" than those in more meaningful conditions.
+
+
 
 **LABOR AND MOTIVATION: Recommended**
 
@@ -236,6 +252,8 @@ Page counts are provided after each link **in bold** and are indicative of the p
 
 ****
 
+
+
 **SELF CONTROL: Required**
 
 1. *Procrastination, Deadlines, and Performance: Self-control by Precommitment.*
@@ -255,6 +273,9 @@ Page counts are provided after each link **in bold** and are indicative of the p
 
 6. *Personal Decisions are the Leading Cause of Death.*
 [Link](https://spark-public.s3.amazonaws.com/behavioralecon/readings/Week%205%20Readings/keeney.pdf) (**13 pages**)
+
+
+
 
 **SELF CONTROL: Recommended**
 
@@ -308,20 +329,19 @@ Page counts are provided after each link **in bold** and are indicative of the p
 1. *Psychic Numbing and Mass Atrocity.*
 [Link](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1809951) (**18 pages**)
 
-```
-Inaction of Bystanders: Why do people/governments fail to react to genocide and mass-scale human rights violations?
+* Inaction of Bystanders: Why do people/governments fail to react to genocide and mass-scale human rights violations?
 
-Lessons From Psychology:
-  * Affect (=sense that something is good or bad) conveys meaning to information, and motivates action.
-  * Dual-Process Theory = we perceive dual reality: System 1 (experiential) and System 2 (rational) where the latter (analysis) is important to decision-making but the former (intuition) makes navigating complex paths easier/quicker and more efficient.
-  * Affect drives moral intuition, which influences moral judgements on situations like genocide. So is affect deficiency to blame for apathy to mass atrocities?
+* Lessons From Psychology:
+     * Affect (=sense that something is good or bad) conveys meaning to information, and motivates action.
+     * Dual-Process Theory = we perceive dual reality: System 1 (experiential) and System 2 (rational) where the latter (analysis) is important to decision-making but the former (intuition) makes navigating complex paths easier/quicker and more efficient.
+     * Affect drives moral intuition, which influences moral judgements on situations like genocide. So is affect deficiency to blame for apathy to mass atrocities?
 
-Affect, Analysis and Value of Human Lives:
-  * Boils down to quantifying the value of human life. Brains think of numbers in a logarithm-like scale.
-  * *Weber's Law*: For stimulus (affect) to be noticeable, a fixed percentage must be added. Thus, we notice small changes in small contexts but require extremely large changes to garner equal affect in large contexts.
-  * *Psychophysical Function*: characterizes the diminished sensitivity to a wide range of perceptual or cognitive entities (stimuli) as their underlying magnitude changes.
-  * *Psychophysical Numbing*: reflects our inability to appreciate losses of life as they become larger in magnitude.
-  * *Prospect Theory:* refers to decision-making under uncertainity. Defines a value function that relates a subjective value to actual gains/losses. When Prospect Theory is applied to human lives (in contexts like genocide) the value function indicates that the subjective value of a *specific* number of lives is greater in the context of a smaller tragedy, than it is for a larger one.
+* Affect, Analysis and Value of Human Lives:
+     * Boils down to quantifying the value of human life. Brains think of numbers in a logarithm-like scale.
+     * *Weber's Law*: For stimulus (affect) to be noticeable, a fixed percentage must be added. Thus, we notice small changes in small contexts but require extremely large changes to garner equal affect in large contexts.
+     * *Psychophysical Function*: characterizes the diminished sensitivity to a wide range of perceptual or cognitive entities (stimuli) as their underlying magnitude changes.
+     * *Psychophysical Numbing*: reflects our inability to appreciate losses of life as they become larger in magnitude.
+     * *Prospect Theory:* refers to decision-making under uncertainity. Defines a value function that relates a subjective value to actual gains/losses. When Prospect Theory is applied to human lives (in contexts like genocide) the value function indicates that the subjective value of a *specific* number of lives is greater in the context of a smaller tragedy, than it is for a larger one.
 
   * Intervention vs. Apathy: Studies show that *proportion* of lives saved causes more weight than the *absolute* number of lives saved, when people evaluate intervention actions.
 
