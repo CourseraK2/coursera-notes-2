@@ -2,9 +2,12 @@
 
 Quick reference for relevant terminology or concepts. A good secondary resource is the excellent set of [flash cards](http://quizlet.com/23020804/behavioral-economics-glossary-all-may-2013-flash-cards/) created by a peer participant on this course. Another set can be found [here] (http://quizlet.com/16883213/behavioral-economics-flash-cards/)
 
- * Note: some terms/explanations below were obtained from the referenced lists for completeness, particularly when they did not have explicit context/references in lectures
- * Some explanations below were also obtained directly from Wikipedia because of its concise and clear articulation of that concept. Where useful, I have added context to link them to lectures/readings.
- * Where possible, each term has a parenthesized label linking it to the appropriate lecture/week
+Note: some terms/explanations below were obtained from the referenced lists for completeness, particularly when they did not have explicit context/references in lectures
+
+Some explanations below were also obtained directly from Wikipedia because of its concise and clear articulation of that concept. Where useful, I have added context to link them to lectures/readings.
+
+Where possible, each term has a parenthesized label linking it to the appropriate lecture/week
+
 *****
 
 
@@ -136,7 +139,7 @@ Quick reference for relevant terminology or concepts. A good secondary resource 
 * *Present Focus Bias*. (Self-Control) Tendency to give more weight to our current environment or state. Also see Hyperbolic Discounting.
 
 
-* *Prospect Theory*. (Emotion) refers to decision-making under uncertainity, describing how people choose between probabilistic alternatives that involve risk, where probabilities of the outcomes are known. The theory states that people make decisions based on the potential value of losses/gains in each outcome rather than on the final outcome alone, and that these losses/gains are evaluated using a heuristic (which can be subjective). In the context of Human Life (see PsychoPhysical Numbing) this may explain why people take swifter action for smaller tragedies and not mass atrocities; the value of a specific number of lives is greater (proportionately) in the former than the latter. [Link](http://en.wikipedia.org/wiki/Prospect_theory)
+* *Prospect Theory*. (Emotion) refers to decision-making under uncertainity or risk conditions. The theory states that people make decisions based on the pain-of-loss vs. pleasure-of-gains rather than on the probability of the outcome. This contradicted standard economic theory that expected people to make rational decisions based on predicted utility. In the context of Human Life (see PsychoPhysical Numbing) this may explain why people take swifter action for smaller tragedies and not mass atrocities; the value of a specific number of lives is greater (proportionately) in the former than the latter. [Link](http://en.wikipedia.org/wiki/Prospect_theory)
 
 
 * *Psychophysical Numbing*: (Emotion) reflects our inability to appreciate losses of life as they become larger in magnitude.
