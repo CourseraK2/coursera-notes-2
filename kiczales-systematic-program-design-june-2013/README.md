@@ -1,10 +1,13 @@
-# Inspiring Leadership Through Emotional Intelligence
+# Introduction to Systematic Program Design - Part 1
 
-Capturing study notes and insights from the "Inspiring Leadership through Emotional Intelligence" course offered by Prof. R. Boyatzis (Case Western University) on Coursera in Spring 2013.
+Meant for first-time programmers, but perhaps interesting (to me) because of its use of Racket (Lisp/Scheme-like multi-paradigm language) as the language of choice for teaching programming.
+
+To try out code/ideas, you will need to download and install [Racket] (http://racket-lang.org/)
+
 
 ### About the Course
 
-TBD
+[Course Website](https://class.coursera.org/programdesign-001/wiki/view?page=Week1)
 
 ### About Web Book Boilerplate
 
