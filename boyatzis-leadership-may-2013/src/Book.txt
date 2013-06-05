@@ -1,2 +1,0 @@
-chapters/week_1.md
-chapters/week_2.md
